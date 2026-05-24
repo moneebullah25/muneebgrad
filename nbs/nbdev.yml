@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "muneebgrad"
+  site-url: "https://moneebullah25.github.io/muneebgrad"
+  description: ""
+  repo-branch: main
+  repo-url: "https://github.com/moneebullah25/muneebgrad"
